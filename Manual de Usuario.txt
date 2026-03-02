@@ -1,0 +1,56 @@
+# Manual de Usuario
+
+## Descripción General
+
+Este sistema es una aplicación de consola en C# que permite gestionar registros mediante un sistema CRUD (Crear, Leer, Actualizar y Eliminar) a través de un menú interactivo.
+
+---
+
+## Cómo ejecutar el programa
+
+1. Abrir el proyecto en Visual Studio Code.
+2. Abrir la terminal en la carpeta del proyecto.
+3. Ejecutar el comando:
+
+   dotnet run
+
+4. El sistema mostrará el menú principal.
+
+---
+
+## Uso del menú
+
+Al iniciar el programa se mostrará un menú con diferentes opciones numeradas.
+
+El usuario debe:
+
+1. Escribir el número de la opción deseada.
+2. Presionar Enter.
+3. Seguir las instrucciones que aparecen en pantalla.
+
+---
+
+## Funcionalidades
+
+### 1️⃣ Crear registro
+Permite ingresar los datos solicitados por el sistema para agregar un nuevo registro.
+
+### 2️⃣ Mostrar registros
+Muestra en pantalla todos los registros almacenados.
+
+### 3️⃣ Actualizar registro
+Permite modificar los datos de un registro existente utilizando su identificador.
+
+### 4️⃣ Eliminar registro
+Permite eliminar un registro ingresando su identificador.
+
+### 5️⃣ Salir
+Finaliza la ejecución del programa.
+
+---
+
+## Recomendaciones
+
+- Ingresar los datos correctamente según lo solicitado.
+- Verificar el identificador antes de actualizar o eliminar un registro.
+- No cerrar la consola mientras el programa esté en ejecución.
