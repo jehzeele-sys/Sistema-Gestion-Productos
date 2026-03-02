@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\bin\Debug\net10.0\Sistema de Gestion de Productos.exe
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\bin\Debug\net10.0\Sistema de Gestion de Productos.deps.json
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\bin\Debug\net10.0\Sistema de Gestion de Productos.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\bin\Debug\net10.0\Sistema de Gestion de Productos.dll
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\bin\Debug\net10.0\Sistema de Gestion de Productos.pdb
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.dll
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\refint\Sistema de Gestion de Productos.dll
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.pdb
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\Sistema de Gestion de Productos.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\Sistema de Gestion de Productos\obj\Debug\net10.0\ref\Sistema de Gestion de Productos.dll
